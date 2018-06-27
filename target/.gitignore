@@ -1,0 +1,9 @@
+/classes/
+/test-classes/
+# Eclipse
+.classpath
+.project
+.settings/
+
+# Maven
+target/
